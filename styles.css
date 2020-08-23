@@ -50,8 +50,8 @@ h1 {
   overflow: hidden;
   text-align: center;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px blue, 0 0 20px blue, 0 0 25px blue, 0 0 30px blue, 0 0 35px blue;
-  animation: animated-text 5s steps(20) 1s 1 normal both,
-    animated-cursor 600ms steps(20) infinite;
+  animation: animated-text 5s steps(24) 1s 1 normal both,
+    animated-cursor 600ms steps(24) infinite;
 }
 
 @keyframes animated-text {
